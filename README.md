@@ -5,3 +5,9 @@ Google Tech Dev Guide
 
 - Hangman
 - HangmanSolver
+
+## Advanced Programming
+
+- Applied CS Skills
+  - Anagrams
+
