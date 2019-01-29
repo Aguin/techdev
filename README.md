@@ -11,3 +11,4 @@ Google Tech Dev Guide
 - Applied CS Skills
   - Anagrams
   - ScarnesDice
+  - WordStack
